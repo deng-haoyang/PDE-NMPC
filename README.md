@@ -2,7 +2,7 @@
 - MATLAB Coder (with a supported compiler)
 - Symbolic Math Toolbox
 
-# Run double-lay-jacobi in MATLAB
+# Run double-layer-jacobi in MATLAB
 1. Go to double-lay-jacobi/2dHeat/
 2. Run NMPC_Problem_Formulation.m
 3. Run Simu_Matlab_Codegen.m to generate C code
