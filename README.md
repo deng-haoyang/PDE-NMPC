@@ -1,3 +1,6 @@
+# Description
+Source codes of the numerical experiments in "A Double-Layer Jacobi Method for PDE-Constrained Nonlinear Model Predictive Control"
+
 # Requirements
 - MATLAB Coder (with a supported compiler)
 - Symbolic Math Toolbox
