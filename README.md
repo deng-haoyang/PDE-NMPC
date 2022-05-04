@@ -1,6 +1,6 @@
 # Requirements
-- MATLAB coder
-- Symbolic Toolbox
+- MATLAB Coder (with a supported compiler)
+- Symbolic Math Toolbox
 
 # Run double-lay-jacobi in MATLAB
 1. Go to double-lay-jacobi/2dHeat/
